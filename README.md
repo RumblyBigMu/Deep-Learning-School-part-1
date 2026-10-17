@@ -1,4 +1,4 @@
-# part_1_ml_cv
+# Deep Learning School (DLS) (ML + CV)
 
 <div align="center">
   <img src="images/dls.png">
@@ -7,9 +7,9 @@
 
 Материалы первого курса Deep Learning School (DLS) (ML + CV)
 
-- [**Наш сайт**](https://dls.samcs.ru/)
+- [**Сайт**](https://dls.samcs.ru/)
 
-- [**Наш телеграм канал**](t.me/deep_learning_school_news)
+- [**Телеграм канал**](t.me/deep_learning_school_news)
 
 ## Основные материалы
 
