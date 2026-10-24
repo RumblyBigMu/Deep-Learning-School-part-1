@@ -13,7 +13,7 @@
 
 ## Основные материалы
 
-1. [Введение в ML, анализ данных и библиотеку Sklearn](./week_01_ml_intro/README.md)
+1. [Основы машинного обучения](./week_01_ml_intro/README.md)
 
 2. [Линейные модели](./week_02_linear_models/README.md)
 
@@ -25,12 +25,14 @@
 
 6. [Продвинутое обучение нейросетей](./week_06_regularization_optimization,/README.md)
 
-7. [Классификация изображений](./week_07_cnn_and_fine_tuning/README.md)
+7. [Архитектуры CNN и Fine-Tuning](./week_07_cnn_and_fine_tuning/README.md)
 
 8. [Семантическая сегментация](./week_08_semantic_segmentation/README.md)
 
-9. [Детекция объектов на изображениях](./week_09_detection/README.md)
+9. [Основы области Explainable AI](./week_03_additional_explainable_ai/Readme.md)
 
-10. [Генеративные модели и автоэнкодеры](./week_10_AE_VAE/README.md)
+10. [Детекция объектов](./week_09_detection/README.md)
+
+11. [Генеративные модели и автоэнкодеры](./week_10_AE_VAE/README.md)
  
-11. [Генеративно-состязательные сети](./week_11_GANs/README.md)
+12. [Генеративно-состязательные сети](./week_11_GANs/README.md)
