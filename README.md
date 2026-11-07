@@ -23,7 +23,7 @@
 
 5. [Сверточные нейросети](./week_05_convolutional_nets/README.md)
 
-6. [Продвинутое обучение нейросетей](./week_06_regularization_optimization,/README.md)
+6. [Продвинутое обучение нейросетей](./week_06_regularization_optimization/README.md)
 
 7. [Архитектуры CNN и Fine-Tuning](./week_07_cnn_and_fine_tuning/README.md)
 
